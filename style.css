@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+    scroll-behavior: smooth;
+    list-style: none;
+
+}
+body {
+    font-family:sans-serif;
+
+}
+
+
+.navbar{
+    border-top: 10px solid yellow;
+}
+
+.box{
+    padding-top: 100px;
+}
+.nav-item1{
+    border:1px solid black;
+
+}
+.firstone{
+    padding-top:20px;
+    color: #16073e;
+}
+.secondone{
+    color:grey;
+    padding-top: 20px;
+}
+.btn-btn-primary{
+    margin-top: 20px;
+}
+.btn-btn-primary{
+    
+    text-align: center;
+    color:white;
+    border-radius: 40px;
+    background-color: blue;
+    border:none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+}
+.image{
+    padding-top: 30px;
+}
+.photo{
+    padding-top: 30px;
+}
+.box2{
+    padding-top: 10px;
+}
+.card-title{
+    font-size: 20px;
+}
+.box3{
+    padding-top: 40px;
+}
+.box3 h3{
+    text-align: center;
+}
+.box4{
+    display: flex;
+    padding-top: 40px;
+    margin:0 auto;
+}
+.box5{
+    padding: 40px;
+    text-align: center;
+}
+.one{
+    justify-content: space-between;
+    display: flex;
+    padding-top: 20px;
+}
+.two{
+    justify-content: space-between;
+    display: flex;
+    padding-top: 20px;
+}
+
+.cointainer1{
+    padding-top: 20px;
+    margin:0 auto;
+    width: 1000px;
+    height:500px;
+    background-color: aliceblue;
+    border-radius: 30px;
+}
+.main-text{
+    padding-top: 30px;
+    margin-bottom: 40px;
+}
+.cointainer1 .row{
+    display: flex;
+    width: 700px;
+    
+}
+.thirdone{
+    padding-top: 5px;
+}
+.grid{
+    padding-top: 40px;
+}
+.cointainer2{
+    padding-top: 30px;
+    margin:0 auto;
+    width: 100%;
+    height:300px;
+    background-color:lightgrey;
+    
+}
+.rag{
+    padding-top: 30px;
+
+}
